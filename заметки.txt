@@ -78,14 +78,3 @@ overlay__main - нужно заменить(но чтоб внутри не бы
 /assets/js/script_v2.js - вконце файла вносил свои скрипты(// popap close - от комментария и ниже)+вносил изменения в слайдеры в карточке товара и на главной
 
 /assets/js/custom_v40.js - внес изминени в слайдеры .gallery-gift-card-top и .gallery-gift-card-thumbs
-
-
-
-
-
-
-
-
-
-
-

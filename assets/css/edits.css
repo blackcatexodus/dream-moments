@@ -68,7 +68,7 @@ body {
 }
 
 .multi__gift-descr, .popular__gift-descr {
-    line-height: normal;
+    line-height: 2;
 }
 .popular__gift-descr {
     margin: 8px 0 12px;
