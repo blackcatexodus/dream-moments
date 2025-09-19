@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>6years</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6years" fill-rule="nonzero">
+            <path d="M20,1.53846154 C9.82076923,1.53846154 1.53846154,9.82076923 1.53846154,20 C1.53846154,30.1792308 9.82076923,38.4615385 20,38.4615385 C30.1792308,38.4615385 38.4615385,30.1792308 38.4615385,20 C38.4615385,9.82076923 30.1792308,1.53846154 20,1.53846154 M20,40 C8.97230769,40 0,31.0276923 0,20 C0,8.97230769 8.97230769,0 20,0 C31.0276923,0 40,8.97230769 40,20 C40,31.0276923 31.0276923,40 20,40" id="Fill-1" fill="#FAC333"></path>
+            <text id="10-лет" fill="#FFC627" font-family="Helvetica" font-size="11" font-weight="normal">
+                <tspan x="3" y="23">10 лет</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

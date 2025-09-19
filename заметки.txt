@@ -1,0 +1,91 @@
+
+
+папка 1 +
+index.html
+В хедере надо заменить блок class="header__wrapper"
+Всю секцию надо заменить "gift__main header-catalog" 
+modal__town - модальное окно выбора города
+twogis__main - добавить блок перед блоком info__main
+popular__main - добавить блок перед футером
+footer__main - заменить блок
+
+
+папка 2
+gift_conf папка
+для корректной работы на сайте нужно заменить, в файле модуля демо сертификата:
+css/open-gift.css
+js/open-gift.js
+и подключить библиотеку:
+js/confetti.browser.min.js
++шрифты
+
+папка 3 +
+попап папки №3 - class="popup__prod-overlay" в файле modals.html
+
+папка 4 +
+feedback_page.html - страничка коментариев
+
+папка 5 +
+попап папки №5 - class="popup__prodbuy-overlay" в файле modals.html
+
+папка 6  +
+basket_page.html - корзина
+попап папки №6>№2 - class="popup__prodcheck-overlay" в файле modals.html
+
+папка 7 +
+account.html - профиль
+cabinet-history-purchase.html - история заказов
+cabinet-activations.html - активации
+ popup__actv-overlay - модальное окно вкладки активаций
+cabinet-cert-history.html - универсальный сертификат
+
+
+сертификати 
+certifiocate_1.html
+certifiocate_2.html
+certifiocate_3.html
+
+карточка товара
+gift__video-play - заменить блок
+main__aside-info - заменить блок
+gallerySlider - заменить блок 
+#lastViewedGiftsSlider - заменить блок на product__slider
+fixed-button-buy-mobile - удалить блок
+overlay__main - заменить блок, в него уже входит блок "fixed-button-buy-mobile" + там модальное окно каталога с менюшки внизу
+__
+product-card_new.html - карточка товара, вид на базе верстки что была предоставлена изначально
+product-card_old.html - карточка товара, вид на базе макета
+op_product-card_old.html - карточка товара с ценой вместо переключателя, вид на базе макета
+op_product-card_new.html - карточка товара с ценой вместо переключателя, вид на базе верстки что была предоставлена изначально
+
+На страницах кроме карточки товара:
+overlay__main - нужно заменить(но чтоб внутри не было fixed-button-buy-mobile), вносились изминения + там модальное окно каталога + модалка контактов с менюшки внизу
+
+/assets/css/dev2_v11.css - это файл стилей взятый с сайта dev2_v1(вносил туда изминений, исправил пару ошибок и подключил корректно шрифты+добавил шрифт)
+
+/assets/fonts/ms_300.ttf - новый шрифт
+/assets/image/cat_mini - добавленая мною папка
+/assets/image/image__cert  - добавленая мною папка
+/assets/image/icons/pin.svg - добавленая мною 
+/assets/image/icons/inst.svg - добавленая мною 
+/assets/image/icons/Bin.svg  - добавленая мною
+/assets/image/icons/play.svg  - добавленая мною
+/content/images/pay_mastercard.svg  - добавленая мною
+
+/assets/css/edits.css - файл стилей 
+
+
+/assets/js/script_v2.js - вконце файла вносил свои скрипты(// popap close - от комментария и ниже)+вносил изменения в слайдеры в карточке товара и на главной
+
+/assets/js/custom_v40.js - внес изминени в слайдеры .gallery-gift-card-top и .gallery-gift-card-thumbs
+
+
+
+
+
+
+
+
+
+
+
